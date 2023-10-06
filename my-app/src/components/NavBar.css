@@ -1,0 +1,18 @@
+/* NavBar.css */
+
+/* Adjust the width and height as needed */
+.logo-img {
+    width: 50px;
+    height: auto;
+}
+.btn-alert {
+    margin: 0 10px 0 40px;
+}
+@media only screen and (max-width: 992px)  {
+    .btn-alert, .btn-login {
+        width: 40vh;
+        margin: 0 auto 10px;
+    }
+}
+
+  
