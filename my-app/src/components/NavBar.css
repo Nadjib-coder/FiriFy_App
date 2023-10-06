@@ -1,12 +1,15 @@
 /* NavBar.css */
 
+.bg-body-tertiary {
+    font-weight: bold;
+}
 /* Adjust the width and height as needed */
 .logo-img {
     width: 50px;
     height: auto;
 }
 .btn-alert {
-    margin: 0 10px 0 40px;
+    margin: 0 10px 0 90px;
 }
 @media only screen and (max-width: 992px)  {
     .btn-alert, .btn-login {
