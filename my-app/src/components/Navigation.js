@@ -50,9 +50,11 @@ function NavBar() {
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
-            <Button variant="danger" className='btn-alert'>Make an Alert</Button>{' '}
-            <Button variant="outline-danger" className='btn-login'>Login / Sign Up</Button>{' '}
           </Nav>
+          <div className='navbar-buttons'>
+              <Button variant="danger" className='btn-alert'>Make an Alert</Button>{' '}
+              <Button variant="outline-danger" className='btn-login'>Login / Sign Up</Button>{' '}
+          </div>
         </Navbar.Collapse>
       </Container>
     </Navbar>

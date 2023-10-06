@@ -18,16 +18,17 @@
 .image-section1 {
     width:100%;
 }
-@media only screen and (max-width: 992px)  {
+@media only screen and (max-width: 800px)  {
     .d-flex {
         flex-direction: column;
     }
     .left-side {
         text-align: center;
         margin-bottom: 30px;
+        padding: 0;
     }
     .image-section1 {
-        width: 80%;
+        width: 95%;
     }
 
     

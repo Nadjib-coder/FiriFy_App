@@ -21,7 +21,7 @@ function Section1() {
                 </div>
             </Container>
         </div>
-    )
-}
+    );
+};
 
 export default Section1;
