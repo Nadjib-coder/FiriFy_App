@@ -23,7 +23,7 @@ function App() {
             description="Location"
           />
           <InfoCard
-            imageSrc="./S4-img-2.zip"
+            imageSrc="./S4-img-2.png"
             title="Ronald Richards"
             description="Location"
           />

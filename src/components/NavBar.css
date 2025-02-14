@@ -12,11 +12,16 @@
 .navbar-buttons {
     margin-left: auto; /* Pushes the buttons to the right */
 }
-
+.navbar-logo {
+    margin-right: 40px;
+}
 @media only screen and (max-width: 992px)  {
     .btn-alert, .btn-login {
         width: 40vh;
         margin: 0 auto 10px;
+    }
+    .navbar-logo {
+        margin-right: 0;
     }
 }
 
